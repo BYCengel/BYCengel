@@ -8,6 +8,6 @@ You can click the Preview link to take a look at your changes.
 
 I've been studying at Uludağ University since 2018 and I've completed all of my classes
 
-Right now I'm looking for an internship on web development, game development or developing apps using C# wit .net
+Right now I'm looking for an internship on frontend / backend web development using .NET or game development.
 
 
