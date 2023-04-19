@@ -6,8 +6,6 @@ You can click the Preview link to take a look at your changes.
 
 #Hello there, I'm Yavuz
 
-I've been studying at Uludağ University since 2018 and I've completed all of my classes
+I'm a .NET developer experienced with .NET MAUI, ASP.NET Core, EF Core and some other tools. I'm proficient with various development techniques like Onion Architecture, Repository Design Pattern and SOLID Principles.
 
-Right now I'm looking for an internship on frontend / backend web development using .NET or game development.
-
-
+You can see some of my projects here.
